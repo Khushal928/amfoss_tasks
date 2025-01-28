@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Weather Guardian",
+  "version": "1.0.0",
+  "description": "Get Weather with one click",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "images/c16",
+      "48": "images/c48",
+      "128": "images/c128"
+    }
+  }
+}

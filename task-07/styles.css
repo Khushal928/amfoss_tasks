@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    flex-direction: column;
+    background-color: aqua;
+    width:250px;
+    height:400px;
+}
+
+    .city-input-button{
+        margin-top: 10px;
+    }
+    #city {
+        font-size: 15px;
+    }
+    
+    #serch-button{
+        font-size: 15px;
+    }
+
+    #city-display {
+        font-size: 45px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+        font-weight: bold;
+    }
+
+    #temperature{
+        font-size: 40px;
+        margin-top: 30px;
+    }
+
+    #description{
+        font-size: 40px;
+        margin-top: 30px;
+    }
