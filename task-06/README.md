@@ -51,4 +51,4 @@ with this part, position of spirit is changed upon interacting with joystick
 ```
 
 
-here is my output
+here is a video of mini game(I could not record on my laptop due to storage issues so i have to record in phone)
