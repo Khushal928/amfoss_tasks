@@ -15,7 +15,7 @@ sudo apt install imagemagick
 convert -background blue -fill red -font Arial -pointsize 30 label:'7+12' captcha.png 
 ```
 and this is the image downloaded<br>
-[image](captcha.png)
+<img src=captchaimg.png>
 
 
 to scan images, I have used pytesseract. but to install and use this module, we
@@ -46,4 +46,4 @@ print(textinimage,'=',eval(textinimage))
 
 
 and this is the output<br>
-[image](pastedimage.png)
+<img src="Pastedimage.png">
