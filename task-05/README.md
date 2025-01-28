@@ -3,5 +3,5 @@ If capture is clicked, capture is called which download the image and save the n
 if display is clicked, display_window is called where if there are no captured pokemons, error is shown else, name is displayed as captured_pokemon[pointer] where pointer is initiaised to 0 and captured_pokemon[pointer].png is displayed. if next or back buttons are clicked, pointer is updated and update_display is called which changes the image and name of the pokemon based on the pointer<br>
 
 
-here is video of how it worked
-[video](video1.mp4)
+here is [video](video1.mp4) of how it worked
+
