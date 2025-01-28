@@ -7,7 +7,6 @@ I am Khushal Chitturi, a CS enthusiastic and like to improve myself. But there a
 
 
 # How do you intend to contribute back to the club?
-***********************
 I will try my best to complete whatever work I am given. I have worked really hard during my vacation and i would try my best to consistently improve and make myself usefull to the team and I will always try to learn new things and that process
 
 
