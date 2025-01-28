@@ -6,7 +6,7 @@ I have started this task by adding background
       size: canvasSize,
     );
     add(background);
-    ```
+```
 
 
 Then i have added bunny which is declared earlier as late SpriteComponent bunny which declares that it is a movable componenent
@@ -35,7 +35,7 @@ Then i have added joystick at the center of screen
       ..position = size/2;
     add(joystick);
   }
-  ```
+```
 
 
 with this part, position of spirit is changed upon interacting with joystick
